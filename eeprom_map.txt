@@ -1,0 +1,13 @@
+#EEPROM MAP
+#REG
+# 0 EEPROM_INIT_TIME
+# 1 EEPROM_SERIAL_NO
+# 2 EEPROM_HW_CONFIG (0:720p, 1:1080p, 2:NTSC)
+# 3 EEPORM_AUTO_ID  //pai-r use
+#-----------------------
+# value range : 0 ~ 4,294,967,295
+# Address	value	Auto-increase
+0	0	0
+1	2101000001	1
+2	0	0
+3	0	0
